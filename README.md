@@ -1,12 +1,12 @@
 # Contact List Management Project
 
-### Objective
+## Objective
 Apply fundamental data structures and algorithms to solve real-world problems using a singly linked list.
 
-### Problem
+## Problem
 A mobile phone company wants to create a contact management system that allows users to add, delete, and update contacts. Users can also call a contact, ensuring that only one call is active at a time.
 
-### Implementation
+## Implementation
 - Create a class called `Contact` with the following attributes:
   - `name`: the contact's name.
   - `phoneNumber`: the contact's phone number.
@@ -31,7 +31,7 @@ A mobile phone company wants to create a contact management system that allows u
   - Display all contacts after deletion and update.
 
 
-#### Output Example
+## Output Example
 
 ```
 Contact Name: Lana
@@ -62,7 +62,7 @@ Contact Name: Samaa
 Phone Number: 0622222222
 ```
 
-### Qualification to pass
+## Qualification to pass
 - [ ] The code should run successfully.
 - [ ] Write all required functions correctly.
 - [ ] Completely define the `Contact` class.
