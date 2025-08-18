@@ -12,7 +12,7 @@ A mobile phone company wants to create a contact management system that allows u
   - `phoneNumber`: the contact's phone number.
    
 - Create a class called `ContactList` that manages contacts as a **linked list**. It must support the following operations:
-  - Write a function `add()` that takes a Contact object as a parameter and adds it to the end of the list, and print a confirmation message indicating the contact has been added.
+  - Write a function `add()` that takes a `Contact` object as a parameter and adds it to the end of the list, and print a confirmation message indicating the contact has been added.
   - Write a function `delete()` that accepts a contact's name as a parameter. If the contact's name is found in the list, remove that contact and print a message indicating the contact has been deleted. If the contact is not found, print a message stating that the contact does not exist.
   - Write a function `update()` that takes the contact’s name and a new phone number as parameters. The function should update the phone number for the given name and print a confirming message.  If the name isn’t found, print a message indicating the contact does not exist. 
   - Write a function `allContacts()` to display all contacts stored in the list. If the list is empty, print a message indicating there are no contacts.
